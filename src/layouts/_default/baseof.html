@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8" />
+	<title>{{ block "title" . }} {{ .Site.Title }} {{ end }}</title>
+	<link rel="stylesheet" type="text/css" href="css/wolk.css" />
+	</head>
+	<body>
+		<div id="header">
+		{{ block "header" . }} {{ end }}
+		</div>
+		<div id="content">
+		{{ block "content" . }} {{ end }}
+		</div>
+		<div id="footer">
+		{{ block "footer" . }} {{ end }}
+		</div>
+	</body>
+</html>
