@@ -1,3 +1,4 @@
 baseURL = "https://wolkict.nl/"
-languageCode = "nl-nl"
+languageCode = "nl-NL"
+defaultContentLanguage = "nl"
 title = "Wolk ICT B.V."
