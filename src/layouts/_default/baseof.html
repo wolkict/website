@@ -7,20 +7,13 @@
 	</head>
 	<body>
 		<div id="header">
-		<h1>Wolk ICT</h1>
+			<a href="/"><img src="/img/wolk-ictdiensten.png" /></a>
 		</div>
 		<div id="container">
-		<div id="content">
 		{{ block "main" . }}{{ end }}
 		</div>
-		</div>
 		<div id="footer">
-		<ul>
-		{{ range .Site.Menus.main }}
-		<li><a href="{{- .URL -}}">{{- .Name -}}</a></li>
-		{{ end }}
-		</ul>
-		<p>Wolk ICT B.V. | KvK: 72997788</p>
+		<p>Wolk ICT B.V. | KvK: 72997788 | <a href="/contact/gegevens/">Contact</a></p>
 		</div>
 	</body>
 </html>
