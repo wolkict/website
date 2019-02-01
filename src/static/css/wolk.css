@@ -35,47 +35,52 @@ ul#header-list li {
     background-color: white;
     margin-bottom: 1ex;
 }
-ul#header-list li a {
+ul#header-list li a, ul#header-list li p {
     color: black;
     display: block;
     font-size: 3.5em;
     padding: 0.5em 0em 0.5em 1.15em;
-    text-decoration: none;
+}
+ul#header-list li a {
+    color: #044e82;
+    text-decoration: underline;
 }
 ul#header-list li a:hover {
-/*    color: white;
+    color: white;
     background-color: rgba(4, 78, 130, 0.75);
-    */
 }
 
 div#content {
+    width: 60%;
     margin-top: 1ex;
     padding-left: 4em;
     padding-top: 1ex;
     padding-bottom: 1ex;
     color: black;
     background-color: white;
+    text-align: justify;
 }
 div#content h1 {
-    font-size: 2.5em;
+    font-size: 2.0em;
     padding-bottom: 0.1em;
 }
 div#content h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     padding-bottom: 0.2em;
 }
 div#content pre {
     font-family: monospace;
-    font-size: 1.5em;
+    font-size: 1.25em;
     padding-bottom: 1em;
 }
 div#content p {
-    font-size: 1.25em;
+    font-size: 1em;
+    padding-bottom: 1em;
 }
 div#content ul {
-    list-style-type: none;
     padding-bottom: 0.5em;
-    font-size: 1.1em;
+    font-size: 1em;
+    text-align: left;
 }
 div#content ul li ul {
     font-size: 1em;
