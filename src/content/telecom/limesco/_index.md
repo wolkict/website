@@ -15,29 +15,30 @@ Bij Limesco (*li-mes*: 'grens' in het Latijn, *co*: coöperatie) heb ik gemerkt
 dat mensen niet per se een telecomprovider zoeken die goedkoop is, maar vooral
 een die *goed aansluit* bij hun wensen---welke dat ook moge zijn. Ik denk
 dat het aanbieden van niet-gebruikelijke telecomdiensten op de particuliere
-markt voor meer diversiteit zorgt, en wellicht ook innovatie aanstuurt als
-mensen samen ideeën bedenken en tot uitvoering kunnen brengen.
+markt voor meer diversiteit zorgt en innovatie aanmoedigt.
 
 Limesco heeft met hun *DIY*-pakket mensen de mogelijkheid gegeven om **zelf**
 controle te hebben over hun mobiele telefonie. Destijds (en nog steeds) een
 unicum in de Nederlandse particuliere telecomwereld! Sinds de aankondiging van
-de opheffing van Limesco B.V. heb ik geregeld mensen voorbij horen komen die het
+de opheffing van Limesco B.V. heb ik geregeld van mensen gehoord dat ze het
 jammer zouden vinden als dat van de particuliere markt zou verdwijnen.
 
-Mede met dat in het achterhoofd heb ik Wolk ICT B.V. opgericht. Ik vind het
-belangrijk dat mensen inzicht kunnen krijgen in hoe een telecomprovider werkt,
-dat ze **zelf** in staat zijn innovatieve dingen te bedenken met hun
-telecomdienst en dat ze ook (technische) hulp kunnen krijgen bij het uitvoeren
-hiervan.
+Met dat in het achterhoofd heb ik Wolk ICT B.V. opgericht. Ik vind het
+belangrijk dat mensen inzicht kunnen krijgen in hoe een telecomprovider werkt
+en dat ze (technische) hulp kunnen krijgen bij het uitvoeren van innovatieve
+ideeën.
 
-**Doelen**
+**Aanbod**
 
 * Keuzemogelijkheid voor twee mobiele netwerken (KPN 4G, T-Mobile 3G)
-* Aanbieden van "forced-on-PBX" voor mobiele telefonie (zoals Limesco's "Do-It-Yourself")
-* Aanbieden van "hosted PBX" (de mogelijkheden van forced-on-PBX zonder zelf de
+* "Forced-on-PBX" voor mobiele telefonie (zoals Limesco's "Do-It-Yourself")
+* "Hosted PBX" (de mogelijkheden van forced-on-PBX zonder zelf de
 PBX te hoeven hosten)
 
 **Plannen**
+
+Op termijn wil ik de volgende zaken kunnen gaan aanbieden (in willekeurige
+volgorde):
 
 * Private APN (dataverbinding eindigt in het netwerk van de klant)
 * IPv6 op de dataverbinding
@@ -46,7 +47,7 @@ PBX te hoeven hosten)
 
 ## Overstappen van Limesco naar WOLK?
 
-Vind je dat het bovenstaande verhaal past bij jouw idee over een
+Vind je dat het bovenstaande verhaal past bij jouw wensen voor een
 telecomprovider én wil je je huidige aansluiting(en) van Limesco naar WOLK
 verhuizen?
 
@@ -63,6 +64,11 @@ Voel je vrij om een andere telecomaanbieder te kiezen! Via vergelijkingswebsites
 als <a href="https://bellen.com/">bellen.com</a> of <a
 href="https://belsimpel.nl/">belsimpel.nl</a> kan je zelf op onderzoek uit voor
 een geschikte telecomprovider.
+
+## Op de hoogte blijven van WOLK?
+
+Stuur dan een e-mail naar <tt>interesse</tt>_@_<tt>wolkict.nl</tt>. Je ontvangt
+te zijner tijd een uitnodiging voor de nieuwsbrief.
 
 ---
 
