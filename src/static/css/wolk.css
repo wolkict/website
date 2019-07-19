@@ -111,3 +111,24 @@ div#footer p a:hover {
     color: white;
     text-decoration: none;
 }
+
+table {
+    width: 100%;
+    margin-bottom: 1em;
+}
+td, th {
+    white-space: nowrap;
+}
+@media all and (max-width: 500px) {
+    table, tr, th, td {
+        display: inline-block;
+    }
+    tbody tr {
+        width: 90%;
+    }
+    div#content {
+        padding-left: .5em;
+        width: 95%;
+    }
+
+}

@@ -11,6 +11,8 @@ Wolk ICT B.V. biedt mobiele telecomdiensten aan op zowel de particuliere als
 zakelijke markt. Op de hoogte blijven van ontwikkelingen? Stuur een e-mail
 naar <tt>hello</tt>_@_<tt>wolkict.nl</tt> en je krijgt van ons bericht!
 
+<a href="https://service.wolkict.nl/aanmelden.php" target="_blank">Meld je hier aan!</a>
+
 ## Dienstaanbod
 
 * **WOLK Gewoon** werkt zoals een 'standaard' mobiele telefoonabonnement. Spraak,
@@ -23,23 +25,23 @@ SIP-server regelen. Via een web-portal regel je alle instellingen.
 
 ## Tarieven
 
-Onderstaande abonnementstarieven gelden sinds 10 maart 2019.
+Onderstaande abonnementstarieven gelden sinds 22 maart 2019.
 
 ### Abonnement
 
-| Onderdeel       | Frequentie                | Prijs (excl. btw)                       | Prijs (incl. btw)                      | Bijzonderheden   |
-|-----------------|---------------------------|----------------------------------------:|---------------------------------------:|------------------|
-| Opstartkosten   | per klant~~per simkaart~~ | &euro;&nbsp;10,00~~&euro;&nbsp;25,00~~  | &euro;&nbsp;12,10~~&euro;&nbsp;30,25~~ | tot 1 april 2019 |
-| Portering       | per simkaart              | &euro;&nbsp;25,00                       | &euro;&nbsp;30,25                      |                  |
+| Onderdeel       | Frequentie   | Prijs (excl. btw)                       | Prijs (incl. btw)                      | Bijzonderheden   |
+|-----------------|--------------|----------------------------------------:|---------------------------------------:|------------------|
+| Opstartkosten   | per simkaart | &euro;&nbsp;10,00<br />~~&euro;&nbsp;25,00~~  | &euro;&nbsp;12,10<br />~~&euro;&nbsp;30,25~~ | tarief tot 1 mei 2019.<br /> portering inbegrepen!   |
+| ~~Losse portering~~ | ~~per simkaart~~ | ~~&euro;&nbsp;25,00~~  | ~~&euro;&nbsp;30,25~~ | |
 | | | | |
-| Simkaart        | per maand                 | &euro;&nbsp;8,00                        | &euro;&nbsp;9,68                       |                  |
-| Databundel 1GB  | per maand                 | &euro;&nbsp;7,00                        | &euro;&nbsp;8,47                       |                  |
-| Databundel 5GB  | per maand                 | &euro;&nbsp;16,00                       | &euro;&nbsp;19,36                      |                  |
+| Simkaart        | per maand    | &euro;&nbsp;8,00                        | &euro;&nbsp;9,68                       |                  |
+| Databundel 1GB  | per maand    | &euro;&nbsp;7,00                        | &euro;&nbsp;8,47                       |                  |
+| Databundel 5GB  | per maand    | &euro;&nbsp;16,00                       | &euro;&nbsp;19,36                      |                  |
 | | | | |
-| WOLK PBX        | per maand                 | &euro;&nbsp;0,00                        | &euro;&nbsp;0,00                       |                  |
-| WOLK Hosted-PBX | per maand                 | &euro;&nbsp;7,50                        | &euro;&nbsp;9,08                       |                  |
+| WOLK PBX        | per maand    | &euro;&nbsp;0,00                        | &euro;&nbsp;0,00                       |                  |
+| WOLK Hosted-PBX | per maand    | &euro;&nbsp;7,50                        | &euro;&nbsp;9,08                       |                  |
 
-### Gesprekstarieven binnen Nederland
+### Tarieven binnen Nederland
 
 Onderstaande gesprekstarieven gelden sinds 1 maart 2019.
 
@@ -50,6 +52,16 @@ Onderstaande gesprekstarieven gelden sinds 1 maart 2019.
 | Nederland (vast)   | per minuut  | &euro;&nbsp;0,0300 | &euro;&nbsp;0,0363 |
 | Nederland (mobiel) | per gesprek | &euro;&nbsp;0,0500 | &euro;&nbsp;0,0605 |
 | Nederland (mobiel) | per minuut  | &euro;&nbsp;0,1000 | &euro;&nbsp;0,1210 |
+
+**Overig:**
+
+| Bestemming              | Frequentie | Prijs (excl. btw)   | Prijs (incl. btw)  |
+|-------------------------|------------|--------------------:|-------------------:|
+| Sms                     | per stuk   | &euro;&nbsp;0,0900  | &euro;&nbsp;0,1089 |
+| Airtime mobiel naar PBX | per minuut | &euro;&nbsp;0,0750  | &euro;&nbsp;0,0907 |
+| Airtime PBX naar mobiel | per minuut | &euro;&nbsp;0,0750  | &euro;&nbsp;0,0907 |
+
+* **Airtime** geldt alleen bij het gebruik van *WOLK PBX* of *WOLK Hosted-PBX*. <a href="#airtime">Lees verder...</a>
 
 ### Gesprekstarieven in Europa (roaming)
 
@@ -79,3 +91,21 @@ Voor de volledige tarievenlijst vanuit Nederland, zie [deze PDF](/pdf/tarieven_W
 We streven ernaar om in de *WOLK PBX*-vorm ook sms en data op een server naar
 keuze te kunnen afleveren. Daarnaast willen we standaard **IPv6** op de
 dataverbinding van *WOLK Gewoon* aan kunnen gaan bieden.
+
+## Airtime
+
+Je betaalt voor een opgezette verbinding van óf naar de mobiele telefoon. De
+reden hiervoor is dat er tussen providers een *termination fee* wordt gerekend.
+Het afleveren van een gesprek van provider A op het netwerk van provider B kost
+provider A geld.
+
+Het is gebruikelijk bij *standaard* mobiele telefonie de inkomende gesprekken
+gratis te maken. Telecomoperators verstoppen deze termination fee in de
+uitgaande gesprekken. Bij de PBX-varianten kan je *zelf* kiezen voor het
+termineren van een gesprek op je mobiele telefoon. Bij het opzetten of afleveren
+van een gesprek van/op je mobiele telefoon wordt (in beide PBX-gevallen) bij
+Wolk ICT B.V. deze termination fee in rekening gebracht.
+
+Je zou immers je PBX een "inkomend" gesprek op kunnen laten zetten naar je
+mobiele telefoon, een "uitgaand" gesprek naar een willekeurige bestemming, en
+deze twee gesprekken aan elkaar verbinden.
