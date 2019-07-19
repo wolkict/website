@@ -25,21 +25,21 @@ SIP-server regelen. Via een web-portal regel je alle instellingen.
 
 ## Tarieven
 
-Onderstaande abonnementstarieven gelden sinds 22 maart 2019.
+Onderstaande abonnementstarieven gelden sinds 1 mei 2019.
 
 ### Abonnement
 
-| Onderdeel       | Frequentie   | Prijs (excl. btw)                       | Prijs (incl. btw)                      | Bijzonderheden   |
-|-----------------|--------------|----------------------------------------:|---------------------------------------:|------------------|
-| Opstartkosten   | per simkaart | &euro;&nbsp;10,00<br />~~&euro;&nbsp;25,00~~  | &euro;&nbsp;12,10<br />~~&euro;&nbsp;30,25~~ | tarief tot 1 mei 2019.<br /> portering inbegrepen!   |
-| ~~Losse portering~~ | ~~per simkaart~~ | ~~&euro;&nbsp;25,00~~  | ~~&euro;&nbsp;30,25~~ | |
+| Onderdeel       | Frequentie   | Prijs (excl. btw)  | Prijs (incl. btw) | Bijzonderheden        |
+|-----------------|--------------|-------------------:|------------------:|-----------------------|
+| Opstartkosten   | per simkaart | &euro;&nbsp;25,00  | &euro;&nbsp;30,25 | portering inbegrepen! |
+| Losse portering | per simkaart | &euro;&nbsp;25,00  | &euro;&nbsp;30,25 |                       |
 | | | | |
-| Simkaart        | per maand    | &euro;&nbsp;8,00                        | &euro;&nbsp;9,68                       |                  |
-| Databundel 1GB  | per maand    | &euro;&nbsp;7,00                        | &euro;&nbsp;8,47                       |                  |
-| Databundel 5GB  | per maand    | &euro;&nbsp;16,00                       | &euro;&nbsp;19,36                      |                  |
+| Simkaart        | per maand    | &euro;&nbsp;8,00   | &euro;&nbsp;9,68  |                       |
+| Databundel 1GB  | per maand    | &euro;&nbsp;7,00   | &euro;&nbsp;8,47  |                       |
+| Databundel 5GB  | per maand    | &euro;&nbsp;16,00  | &euro;&nbsp;19,36 |                       |
 | | | | |
-| WOLK PBX        | per maand    | &euro;&nbsp;0,00                        | &euro;&nbsp;0,00                       |                  |
-| WOLK Hosted-PBX | per maand    | &euro;&nbsp;7,50                        | &euro;&nbsp;9,08                       |                  |
+| WOLK PBX        | per maand    | &euro;&nbsp;0,00   | &euro;&nbsp;0,00  |                       |
+| WOLK Hosted-PBX | per maand    | &euro;&nbsp;7,50   | &euro;&nbsp;9,08  |                       |
 
 ### Tarieven binnen Nederland
 
