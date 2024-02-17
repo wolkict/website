@@ -25,41 +25,41 @@ SIP-server regelen. Via een web-portal regel je alle instellingen.
 
 ## Tarieven
 
-Onderstaande abonnementstarieven gelden sinds 1 mei 2019.
+Onderstaande abonnementstarieven gelden sinds 1 maart 2024.
 
 ### Abonnement
 
 | Onderdeel       | Frequentie   | Prijs (excl. btw)  | Prijs (incl. btw) | Bijzonderheden        |
 |-----------------|--------------|-------------------:|------------------:|-----------------------|
-| Opstartkosten   | per simkaart | &euro;&nbsp;25,00  | &euro;&nbsp;30,25 | portering inbegrepen! |
-| Losse portering | per simkaart | &euro;&nbsp;25,00  | &euro;&nbsp;30,25 |                       |
+| Opstartkosten   | per simkaart | &euro;&nbsp;26,25  | &euro;&nbsp;31,77 | portering inbegrepen! |
+| Losse portering | per simkaart | &euro;&nbsp;26,25  | &euro;&nbsp;31,77 |                       |
 | | | | |
-| Simkaart        | per maand    | &euro;&nbsp;8,00   | &euro;&nbsp;9,68  |                       |
-| Databundel 1GB  | per maand    | &euro;&nbsp;7,00   | &euro;&nbsp;8,47  |                       |
-| Databundel 5GB  | per maand    | &euro;&nbsp;16,00  | &euro;&nbsp;19,36 |                       |
+| Simkaart        | per maand    | &euro;&nbsp;8,40   | &euro;&nbsp;10,17 |                       |
+| Databundel 1GB  | per maand    | &euro;&nbsp;7,35   | &euro;&nbsp;8,90  |                       |
+| Databundel 5GB  | per maand    | &euro;&nbsp;16,80  | &euro;&nbsp;20,33 |                       |
 | | | | |
 | WOLK PBX        | per maand    | &euro;&nbsp;0,00   | &euro;&nbsp;0,00  |                       |
-| WOLK Hosted-PBX | per maand    | &euro;&nbsp;7,50   | &euro;&nbsp;9,08  |                       |
+| WOLK Hosted-PBX | per maand    | &euro;&nbsp;7,88   | &euro;&nbsp;9,54  |                       |
 
 ### Tarieven binnen Nederland
 
-Onderstaande gesprekstarieven gelden sinds 1 maart 2019.
+Onderstaande gesprekstarieven gelden sinds 1 april 2024.
 
 | Bestemming         | Frequentie  | Prijs (excl. btw)  | Prijs (incl. btw)  |
 |--------------------|-------------|-------------------:|-------------------:|
 | Inkomend           | n.v.t.      | &euro;&nbsp;0,0000 | &euro;&nbsp;0,0000 |
-| Nederland (vast)   | per gesprek | &euro;&nbsp;0,0500 | &euro;&nbsp;0,0605 |
-| Nederland (vast)   | per minuut  | &euro;&nbsp;0,0300 | &euro;&nbsp;0,0363 |
-| Nederland (mobiel) | per gesprek | &euro;&nbsp;0,0500 | &euro;&nbsp;0,0605 |
-| Nederland (mobiel) | per minuut  | &euro;&nbsp;0,1000 | &euro;&nbsp;0,1210 |
+| Nederland (vast)   | per gesprek | &euro;&nbsp;0,0525 | &euro;&nbsp;0,0635 |
+| Nederland (vast)   | per minuut  | &euro;&nbsp;0,0315 | &euro;&nbsp;0,0381 |
+| Nederland (mobiel) | per gesprek | &euro;&nbsp;0,0525 | &euro;&nbsp;0,0635 |
+| Nederland (mobiel) | per minuut  | &euro;&nbsp;0,1050 | &euro;&nbsp;0,1270 |
 
 **Overig:**
 
 | Bestemming              | Frequentie | Prijs (excl. btw)   | Prijs (incl. btw)  |
 |-------------------------|------------|--------------------:|-------------------:|
-| Sms                     | per stuk   | &euro;&nbsp;0,0900  | &euro;&nbsp;0,1089 |
-| Airtime mobiel naar PBX | per minuut | &euro;&nbsp;0,0750  | &euro;&nbsp;0,0907 |
-| Airtime PBX naar mobiel | per minuut | &euro;&nbsp;0,0750  | &euro;&nbsp;0,0907 |
+| Sms                     | per stuk   | &euro;&nbsp;0,0945  | &euro;&nbsp;0,1144 |
+| Airtime mobiel naar PBX | per minuut | &euro;&nbsp;0,0788  | &euro;&nbsp;0,0954 |
+| Airtime PBX naar mobiel | per minuut | &euro;&nbsp;0,0788  | &euro;&nbsp;0,0954 |
 
 * **Airtime** geldt alleen bij het gebruik van *WOLK PBX* of *WOLK Hosted-PBX*. <a href="#airtime">Lees verder...</a>
 
@@ -85,6 +85,7 @@ bij gebruik van het Franse netwerk)*.
 ### Volledige tarievenlijst
 
 Voor de volledige tarievenlijst vanuit Nederland, zie [deze PDF](/pdf/tarieven_Wolk_ICT_2019.pdf).
+Deze tarieven zijn geldig tot en met 31 maart 2024.
 
 ## Toekomstige zaken
 
