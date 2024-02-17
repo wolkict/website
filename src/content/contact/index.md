@@ -11,8 +11,8 @@ menu: "main"
 
 <pre>
 Wolk ICT B.V.
-Platolaan 338
-6525KD Nijmegen
+St. Annastraat 198-C
+6525GX Nijmegen
 </pre>
 
 * Email: <tt>&lt;hello</tt>_@_<tt>wolkict.nl&gt;</tt> (PGP: <tt>0x40518979083ea48d</tt>)
